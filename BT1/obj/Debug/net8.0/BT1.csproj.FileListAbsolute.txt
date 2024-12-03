@@ -1,0 +1,17 @@
+D:\Excercise3\BT1\bin\Debug\net8.0\BT1.exe
+D:\Excercise3\BT1\bin\Debug\net8.0\BT1.deps.json
+D:\Excercise3\BT1\bin\Debug\net8.0\BT1.runtimeconfig.json
+D:\Excercise3\BT1\bin\Debug\net8.0\BT1.dll
+D:\Excercise3\BT1\bin\Debug\net8.0\BT1.pdb
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.AssemblyInfoInputs.cache
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.AssemblyInfo.cs
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.csproj.CoreCompileInputs.cache
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.dll
+D:\Excercise3\BT1\obj\Debug\net8.0\refint\BT1.dll
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.pdb
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.genruntimeconfig.cache
+D:\Excercise3\BT1\obj\Debug\net8.0\ref\BT1.dll
+D:\Excercise3\BT1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.csproj.AssemblyReference.cache
+D:\Excercise3\BT1\obj\Debug\net8.0\BT1.csproj.Up2Date

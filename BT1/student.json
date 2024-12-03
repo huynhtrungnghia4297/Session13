@@ -1,0 +1,30 @@
+[
+  {
+    "studentID": "S001",
+    "studentName": "Trần Văn An",
+    "mathScore": 7.5,
+    "literatureScore": 8.0,
+    "englishScore": 6.5
+  },
+  {
+    "studentID": "S002",
+    "studentName": "Nguyễn Thị Lan",
+    "mathScore": 5.5,
+    "literatureScore": 6.0,
+    "englishScore": 6.0
+  },
+  {
+    "studentID": "S003",
+    "studentName": "Lê Minh Hoàng",
+    "mathScore": 8.0,
+    "literatureScore": 7.5,
+    "englishScore": 8.5
+  },
+  {
+    "studentID": "001",
+    "studentName": "Huynh Trung Nghia",
+    "mathScore": 10.0,
+    "literatureScore": 9.0,
+    "englishScore": 8.0
+  }
+]

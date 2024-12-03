@@ -1,0 +1,32 @@
+[
+  {
+    "productID": "S001",
+    "productName": "Tivi",
+    "price": 2000000.0,
+    "inventoryQty": 8
+  },
+  {
+    "productID": "S002",
+    "productName": "Laptop",
+    "price": 13000000.0,
+    "inventoryQty": 6
+  },
+  {
+    "productID": "S003",
+    "productName": "Tủ Lạnh",
+    "price": 5000000.0,
+    "inventoryQty": 7
+  },
+  {
+    "productID": "01",
+    "productName": "Laptop Acer",
+    "price": 19000000.0,
+    "inventoryQty": 5
+  },
+  {
+    "productID": "02",
+    "productName": "LCD Acer",
+    "price": 5000000.0,
+    "inventoryQty": 4
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "orderID": "01",
+    "productID": "01",
+    "sellQty": 5,
+    "customerName": "Nghia",
+    "status": true
+  },
+  {
+    "orderID": "02",
+    "productID": "02",
+    "sellQty": 2,
+    "customerName": "Bi",
+    "status": true
+  },
+  {
+    "orderID": "03",
+    "productID": "01",
+    "sellQty": 6,
+    "customerName": "Nghia Ne",
+    "status": true
+  }
+]
