@@ -1,0 +1,15 @@
+D:\Excercise3\BT15.2C#\bin\Debug\net8.0\BT15.2C#.exe
+D:\Excercise3\BT15.2C#\bin\Debug\net8.0\BT15.2C#.deps.json
+D:\Excercise3\BT15.2C#\bin\Debug\net8.0\BT15.2C#.runtimeconfig.json
+D:\Excercise3\BT15.2C#\bin\Debug\net8.0\BT15.2C#.dll
+D:\Excercise3\BT15.2C#\bin\Debug\net8.0\BT15.2C#.pdb
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.AssemblyInfoInputs.cache
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.AssemblyInfo.cs
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.csproj.CoreCompileInputs.cache
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.sourcelink.json
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.dll
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\refint\BT15.2C#.dll
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.pdb
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\BT15.2C#.genruntimeconfig.cache
+D:\Excercise3\BT15.2C#\obj\Debug\net8.0\ref\BT15.2C#.dll

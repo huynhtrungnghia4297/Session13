@@ -1,0 +1,44 @@
+[
+  {
+    "SoThe": "Kh\u00F4ng \u00E1p d\u1EE5ng",
+    "SoTien": 100000,
+    "LoaiThanhToan": "Ti\u1EC1n m\u1EB7t",
+    "ThoiGian": "2024-12-16T11:42:00.7249946+07:00",
+    "KetQua": true
+  },
+  {
+    "SoThe": "123456",
+    "SoTien": 120000,
+    "LoaiThanhToan": "Th\u1EBB",
+    "ThoiGian": "2024-12-16T11:42:26.7095995+07:00",
+    "KetQua": false
+  },
+  {
+    "SoThe": "123321",
+    "SoTien": 123321,
+    "LoaiThanhToan": "Th\u1EBB",
+    "ThoiGian": "2024-12-16T11:42:42.5722441+07:00",
+    "KetQua": true
+  },
+  {
+    "SoThe": "1233211",
+    "SoTien": 11000000,
+    "LoaiThanhToan": "Online",
+    "ThoiGian": "2024-12-16T11:43:03.736812+07:00",
+    "KetQua": false
+  },
+  {
+    "SoThe": "123321",
+    "SoTien": 11000000,
+    "LoaiThanhToan": "Online",
+    "ThoiGian": "2024-12-16T11:43:29.9695614+07:00",
+    "KetQua": false
+  },
+  {
+    "SoThe": "123321",
+    "SoTien": 11000000,
+    "LoaiThanhToan": "Online",
+    "ThoiGian": "2024-12-16T11:43:48.0706322+07:00",
+    "KetQua": true
+  }
+]

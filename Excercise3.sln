@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BT1", "BT1\BT1.csproj", "{3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2", "BT2\BT2.csproj", "{D729EFD4-A9B2-4688-8D79-968071FB386A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT15C#", "BT15C#\BT15C#.csproj", "{BC07E3F7-6924-4D85-89C9-C90CC8EFF13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT15.2C#", "BT15.2C#\BT15.2C#.csproj", "{66A56C61-E028-48C7-B4C5-1671FC73074E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D729EFD4-A9B2-4688-8D79-968071FB386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D729EFD4-A9B2-4688-8D79-968071FB386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D729EFD4-A9B2-4688-8D79-968071FB386A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC07E3F7-6924-4D85-89C9-C90CC8EFF13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC07E3F7-6924-4D85-89C9-C90CC8EFF13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC07E3F7-6924-4D85-89C9-C90CC8EFF13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC07E3F7-6924-4D85-89C9-C90CC8EFF13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A56C61-E028-48C7-B4C5-1671FC73074E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A56C61-E028-48C7-B4C5-1671FC73074E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A56C61-E028-48C7-B4C5-1671FC73074E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A56C61-E028-48C7-B4C5-1671FC73074E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

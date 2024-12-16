@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Excercise3\\BT2\\BT2.csproj",
+      "projectUniqueName": "D:\\Excercise3\\BT2\\BT2.csproj",
       "projectName": "BT2",
-      "projectPath": "d:\\Excercise3\\BT2\\BT2.csproj",
+      "projectPath": "D:\\Excercise3\\BT2\\BT2.csproj",
       "packagesPath": "C:\\Users\\2212091\\.nuget\\packages\\",
-      "outputPath": "d:\\Excercise3\\BT2\\obj\\",
+      "outputPath": "D:\\Excercise3\\BT2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2212091\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,7 +75,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {

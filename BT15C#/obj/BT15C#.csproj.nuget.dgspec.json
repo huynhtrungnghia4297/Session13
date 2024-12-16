@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Excercise3\\BT2\\BT2.csproj": {}
+    "D:\\Excercise3\\BT15C#\\BT15C#.csproj": {}
   },
   "projects": {
-    "D:\\Excercise3\\BT2\\BT2.csproj": {
+    "D:\\Excercise3\\BT15C#\\BT15C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Excercise3\\BT2\\BT2.csproj",
-        "projectName": "BT2",
-        "projectPath": "D:\\Excercise3\\BT2\\BT2.csproj",
+        "projectUniqueName": "D:\\Excercise3\\BT15C#\\BT15C#.csproj",
+        "projectName": "BT15C#",
+        "projectPath": "D:\\Excercise3\\BT15C#\\BT15C#.csproj",
         "packagesPath": "C:\\Users\\2212091\\.nuget\\packages\\",
-        "outputPath": "D:\\Excercise3\\BT2\\obj\\",
+        "outputPath": "D:\\Excercise3\\BT15C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2212091\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,12 +44,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
